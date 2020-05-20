@@ -1,0 +1,13 @@
+C:\Users\vanke\Desktop\Local School\Data Struc\LinkedListAss3\LinkedListAss3\obj\Debug\netcoreapp3.1\LinkedListAss3.csprojAssemblyReference.cache
+C:\Users\vanke\Desktop\Local School\Data Struc\LinkedListAss3\LinkedListAss3\obj\Debug\netcoreapp3.1\LinkedListAss3.csproj.CoreCompileInputs.cache
+C:\Users\vanke\Desktop\Local School\Data Struc\LinkedListAss3\LinkedListAss3\obj\Debug\netcoreapp3.1\LinkedListAss3.AssemblyInfoInputs.cache
+C:\Users\vanke\Desktop\Local School\Data Struc\LinkedListAss3\LinkedListAss3\obj\Debug\netcoreapp3.1\LinkedListAss3.AssemblyInfo.cs
+C:\Users\vanke\Desktop\Local School\Data Struc\LinkedListAss3\LinkedListAss3\bin\Debug\netcoreapp3.1\LinkedListAss3.exe
+C:\Users\vanke\Desktop\Local School\Data Struc\LinkedListAss3\LinkedListAss3\bin\Debug\netcoreapp3.1\LinkedListAss3.deps.json
+C:\Users\vanke\Desktop\Local School\Data Struc\LinkedListAss3\LinkedListAss3\bin\Debug\netcoreapp3.1\LinkedListAss3.runtimeconfig.json
+C:\Users\vanke\Desktop\Local School\Data Struc\LinkedListAss3\LinkedListAss3\bin\Debug\netcoreapp3.1\LinkedListAss3.runtimeconfig.dev.json
+C:\Users\vanke\Desktop\Local School\Data Struc\LinkedListAss3\LinkedListAss3\bin\Debug\netcoreapp3.1\LinkedListAss3.dll
+C:\Users\vanke\Desktop\Local School\Data Struc\LinkedListAss3\LinkedListAss3\bin\Debug\netcoreapp3.1\LinkedListAss3.pdb
+C:\Users\vanke\Desktop\Local School\Data Struc\LinkedListAss3\LinkedListAss3\obj\Debug\netcoreapp3.1\LinkedListAss3.dll
+C:\Users\vanke\Desktop\Local School\Data Struc\LinkedListAss3\LinkedListAss3\obj\Debug\netcoreapp3.1\LinkedListAss3.pdb
+C:\Users\vanke\Desktop\Local School\Data Struc\LinkedListAss3\LinkedListAss3\obj\Debug\netcoreapp3.1\LinkedListAss3.genruntimeconfig.cache
