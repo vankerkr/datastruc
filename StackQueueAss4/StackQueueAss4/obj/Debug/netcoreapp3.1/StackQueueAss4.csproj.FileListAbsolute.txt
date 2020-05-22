@@ -1,0 +1,13 @@
+C:\Users\vanke\Desktop\Local School\Data Struc\StackQueueAss4\StackQueueAss4\bin\Debug\netcoreapp3.1\StackQueueAss4.exe
+C:\Users\vanke\Desktop\Local School\Data Struc\StackQueueAss4\StackQueueAss4\bin\Debug\netcoreapp3.1\StackQueueAss4.deps.json
+C:\Users\vanke\Desktop\Local School\Data Struc\StackQueueAss4\StackQueueAss4\bin\Debug\netcoreapp3.1\StackQueueAss4.runtimeconfig.json
+C:\Users\vanke\Desktop\Local School\Data Struc\StackQueueAss4\StackQueueAss4\bin\Debug\netcoreapp3.1\StackQueueAss4.runtimeconfig.dev.json
+C:\Users\vanke\Desktop\Local School\Data Struc\StackQueueAss4\StackQueueAss4\bin\Debug\netcoreapp3.1\StackQueueAss4.dll
+C:\Users\vanke\Desktop\Local School\Data Struc\StackQueueAss4\StackQueueAss4\bin\Debug\netcoreapp3.1\StackQueueAss4.pdb
+C:\Users\vanke\Desktop\Local School\Data Struc\StackQueueAss4\StackQueueAss4\obj\Debug\netcoreapp3.1\StackQueueAss4.csprojAssemblyReference.cache
+C:\Users\vanke\Desktop\Local School\Data Struc\StackQueueAss4\StackQueueAss4\obj\Debug\netcoreapp3.1\StackQueueAss4.csproj.CoreCompileInputs.cache
+C:\Users\vanke\Desktop\Local School\Data Struc\StackQueueAss4\StackQueueAss4\obj\Debug\netcoreapp3.1\StackQueueAss4.AssemblyInfoInputs.cache
+C:\Users\vanke\Desktop\Local School\Data Struc\StackQueueAss4\StackQueueAss4\obj\Debug\netcoreapp3.1\StackQueueAss4.AssemblyInfo.cs
+C:\Users\vanke\Desktop\Local School\Data Struc\StackQueueAss4\StackQueueAss4\obj\Debug\netcoreapp3.1\StackQueueAss4.dll
+C:\Users\vanke\Desktop\Local School\Data Struc\StackQueueAss4\StackQueueAss4\obj\Debug\netcoreapp3.1\StackQueueAss4.pdb
+C:\Users\vanke\Desktop\Local School\Data Struc\StackQueueAss4\StackQueueAss4\obj\Debug\netcoreapp3.1\StackQueueAss4.genruntimeconfig.cache
