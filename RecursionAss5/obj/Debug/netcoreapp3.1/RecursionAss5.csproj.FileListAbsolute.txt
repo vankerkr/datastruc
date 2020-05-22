@@ -1,0 +1,13 @@
+C:\Users\vanke\Desktop\Local School\Data Struc\RecursionAss5\bin\Debug\netcoreapp3.1\RecursionAss5.exe
+C:\Users\vanke\Desktop\Local School\Data Struc\RecursionAss5\bin\Debug\netcoreapp3.1\RecursionAss5.deps.json
+C:\Users\vanke\Desktop\Local School\Data Struc\RecursionAss5\bin\Debug\netcoreapp3.1\RecursionAss5.runtimeconfig.json
+C:\Users\vanke\Desktop\Local School\Data Struc\RecursionAss5\bin\Debug\netcoreapp3.1\RecursionAss5.runtimeconfig.dev.json
+C:\Users\vanke\Desktop\Local School\Data Struc\RecursionAss5\bin\Debug\netcoreapp3.1\RecursionAss5.dll
+C:\Users\vanke\Desktop\Local School\Data Struc\RecursionAss5\bin\Debug\netcoreapp3.1\RecursionAss5.pdb
+C:\Users\vanke\Desktop\Local School\Data Struc\RecursionAss5\obj\Debug\netcoreapp3.1\RecursionAss5.csprojAssemblyReference.cache
+C:\Users\vanke\Desktop\Local School\Data Struc\RecursionAss5\obj\Debug\netcoreapp3.1\RecursionAss5.csproj.CoreCompileInputs.cache
+C:\Users\vanke\Desktop\Local School\Data Struc\RecursionAss5\obj\Debug\netcoreapp3.1\RecursionAss5.AssemblyInfoInputs.cache
+C:\Users\vanke\Desktop\Local School\Data Struc\RecursionAss5\obj\Debug\netcoreapp3.1\RecursionAss5.AssemblyInfo.cs
+C:\Users\vanke\Desktop\Local School\Data Struc\RecursionAss5\obj\Debug\netcoreapp3.1\RecursionAss5.dll
+C:\Users\vanke\Desktop\Local School\Data Struc\RecursionAss5\obj\Debug\netcoreapp3.1\RecursionAss5.pdb
+C:\Users\vanke\Desktop\Local School\Data Struc\RecursionAss5\obj\Debug\netcoreapp3.1\RecursionAss5.genruntimeconfig.cache
