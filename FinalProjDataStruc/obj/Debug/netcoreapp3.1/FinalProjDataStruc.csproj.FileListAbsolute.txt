@@ -1,0 +1,13 @@
+C:\Users\vanke\source\repos\FinalProjDataStruc\bin\Debug\netcoreapp3.1\FinalProjDataStruc.exe
+C:\Users\vanke\source\repos\FinalProjDataStruc\bin\Debug\netcoreapp3.1\FinalProjDataStruc.deps.json
+C:\Users\vanke\source\repos\FinalProjDataStruc\bin\Debug\netcoreapp3.1\FinalProjDataStruc.runtimeconfig.json
+C:\Users\vanke\source\repos\FinalProjDataStruc\bin\Debug\netcoreapp3.1\FinalProjDataStruc.runtimeconfig.dev.json
+C:\Users\vanke\source\repos\FinalProjDataStruc\bin\Debug\netcoreapp3.1\FinalProjDataStruc.dll
+C:\Users\vanke\source\repos\FinalProjDataStruc\bin\Debug\netcoreapp3.1\FinalProjDataStruc.pdb
+C:\Users\vanke\source\repos\FinalProjDataStruc\obj\Debug\netcoreapp3.1\FinalProjDataStruc.csprojAssemblyReference.cache
+C:\Users\vanke\source\repos\FinalProjDataStruc\obj\Debug\netcoreapp3.1\FinalProjDataStruc.csproj.CoreCompileInputs.cache
+C:\Users\vanke\source\repos\FinalProjDataStruc\obj\Debug\netcoreapp3.1\FinalProjDataStruc.AssemblyInfoInputs.cache
+C:\Users\vanke\source\repos\FinalProjDataStruc\obj\Debug\netcoreapp3.1\FinalProjDataStruc.AssemblyInfo.cs
+C:\Users\vanke\source\repos\FinalProjDataStruc\obj\Debug\netcoreapp3.1\FinalProjDataStruc.dll
+C:\Users\vanke\source\repos\FinalProjDataStruc\obj\Debug\netcoreapp3.1\FinalProjDataStruc.pdb
+C:\Users\vanke\source\repos\FinalProjDataStruc\obj\Debug\netcoreapp3.1\FinalProjDataStruc.genruntimeconfig.cache
