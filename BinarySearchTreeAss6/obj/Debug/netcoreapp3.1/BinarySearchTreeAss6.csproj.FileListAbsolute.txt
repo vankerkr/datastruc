@@ -1,0 +1,13 @@
+C:\Users\vanke\Desktop\Local School\Data Struc\BinarySearchTreeAss6\obj\Debug\netcoreapp3.1\BinarySearchTreeAss6.csprojAssemblyReference.cache
+C:\Users\vanke\Desktop\Local School\Data Struc\BinarySearchTreeAss6\obj\Debug\netcoreapp3.1\BinarySearchTreeAss6.csproj.CoreCompileInputs.cache
+C:\Users\vanke\Desktop\Local School\Data Struc\BinarySearchTreeAss6\obj\Debug\netcoreapp3.1\BinarySearchTreeAss6.AssemblyInfoInputs.cache
+C:\Users\vanke\Desktop\Local School\Data Struc\BinarySearchTreeAss6\obj\Debug\netcoreapp3.1\BinarySearchTreeAss6.AssemblyInfo.cs
+C:\Users\vanke\Desktop\Local School\Data Struc\BinarySearchTreeAss6\bin\Debug\netcoreapp3.1\BinarySearchTreeAss6.exe
+C:\Users\vanke\Desktop\Local School\Data Struc\BinarySearchTreeAss6\bin\Debug\netcoreapp3.1\BinarySearchTreeAss6.deps.json
+C:\Users\vanke\Desktop\Local School\Data Struc\BinarySearchTreeAss6\bin\Debug\netcoreapp3.1\BinarySearchTreeAss6.runtimeconfig.json
+C:\Users\vanke\Desktop\Local School\Data Struc\BinarySearchTreeAss6\bin\Debug\netcoreapp3.1\BinarySearchTreeAss6.runtimeconfig.dev.json
+C:\Users\vanke\Desktop\Local School\Data Struc\BinarySearchTreeAss6\bin\Debug\netcoreapp3.1\BinarySearchTreeAss6.dll
+C:\Users\vanke\Desktop\Local School\Data Struc\BinarySearchTreeAss6\bin\Debug\netcoreapp3.1\BinarySearchTreeAss6.pdb
+C:\Users\vanke\Desktop\Local School\Data Struc\BinarySearchTreeAss6\obj\Debug\netcoreapp3.1\BinarySearchTreeAss6.dll
+C:\Users\vanke\Desktop\Local School\Data Struc\BinarySearchTreeAss6\obj\Debug\netcoreapp3.1\BinarySearchTreeAss6.pdb
+C:\Users\vanke\Desktop\Local School\Data Struc\BinarySearchTreeAss6\obj\Debug\netcoreapp3.1\BinarySearchTreeAss6.genruntimeconfig.cache
