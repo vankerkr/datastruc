@@ -1,0 +1,13 @@
+C:\Users\vanke\Desktop\Local School\Data Struc\SortExamplesAss7\obj\Debug\netcoreapp3.1\SortExamplesAss7.csprojAssemblyReference.cache
+C:\Users\vanke\Desktop\Local School\Data Struc\SortExamplesAss7\obj\Debug\netcoreapp3.1\SortExamplesAss7.csproj.CoreCompileInputs.cache
+C:\Users\vanke\Desktop\Local School\Data Struc\SortExamplesAss7\obj\Debug\netcoreapp3.1\SortExamplesAss7.AssemblyInfoInputs.cache
+C:\Users\vanke\Desktop\Local School\Data Struc\SortExamplesAss7\obj\Debug\netcoreapp3.1\SortExamplesAss7.AssemblyInfo.cs
+C:\Users\vanke\Desktop\Local School\Data Struc\SortExamplesAss7\bin\Debug\netcoreapp3.1\SortExamplesAss7.exe
+C:\Users\vanke\Desktop\Local School\Data Struc\SortExamplesAss7\bin\Debug\netcoreapp3.1\SortExamplesAss7.deps.json
+C:\Users\vanke\Desktop\Local School\Data Struc\SortExamplesAss7\bin\Debug\netcoreapp3.1\SortExamplesAss7.runtimeconfig.json
+C:\Users\vanke\Desktop\Local School\Data Struc\SortExamplesAss7\bin\Debug\netcoreapp3.1\SortExamplesAss7.runtimeconfig.dev.json
+C:\Users\vanke\Desktop\Local School\Data Struc\SortExamplesAss7\bin\Debug\netcoreapp3.1\SortExamplesAss7.dll
+C:\Users\vanke\Desktop\Local School\Data Struc\SortExamplesAss7\bin\Debug\netcoreapp3.1\SortExamplesAss7.pdb
+C:\Users\vanke\Desktop\Local School\Data Struc\SortExamplesAss7\obj\Debug\netcoreapp3.1\SortExamplesAss7.dll
+C:\Users\vanke\Desktop\Local School\Data Struc\SortExamplesAss7\obj\Debug\netcoreapp3.1\SortExamplesAss7.pdb
+C:\Users\vanke\Desktop\Local School\Data Struc\SortExamplesAss7\obj\Debug\netcoreapp3.1\SortExamplesAss7.genruntimeconfig.cache
